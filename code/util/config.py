@@ -1,0 +1,4 @@
+COULEUR_PRIMAIRE = "#4A90E2"
+COULEUR_SECONDAIRE = "#F5F5F5"
+POLICE_TITRE = ("Comfortaa", 16, "bold")
+POLICE_TEXTE = ("Comfortaa", 11)
